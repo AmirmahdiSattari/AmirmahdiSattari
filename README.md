@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Amirmahdi Sattari</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FqJ5evVs-_uUAAAAC%2Fcoding.gif&tbnid=MwozBsUeOfn96M&vet=10CBIQxiAoCGoXChMIoITL07zy_gIVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&docid=cR54yvEmE2nqmM&w=498&h=249&itg=1&q=github%20animated%20coding%20gif&hl=en&client=opera-gx&ved=0CBIQxiAoCGoXChMIoITL07zy_gIVAAAAAB0AAAAAEAc#imgrc=MwozBsUeOfn96M&imgdii=CL8Lsl-jKD51kM](https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif)">
+<img align="right" style="" alt="Coding" width="400" style="border-radius:25px;" src="https://camo.githubusercontent.com/dba8a551526ddcfe0bb4a780df9eab493cdaf200ecb198eab26e0254f5faf0dc/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30382f46756c6c2d537461636b2d446576656c6f7065722d312e676966">
+
+<br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmahdisattari&label=Profile%20views&color=0e75b6&style=flat" alt="amirmahdisattari" /> </p>
 
