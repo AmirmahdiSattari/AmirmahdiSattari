@@ -9,6 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirmahdisattari&label=Profile%20views&color=0e75b6&style=flat" alt="amirmahdisattari" /> </p>
 
+-✍️ BA student of software engineering (Shahid Beheshti University)
 - 📫 How to reach me **Amirmahdisattariams@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
