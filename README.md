@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm Amirmahdi Sattari</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate developer</h3>
 
 <img align="right" style="" alt="Coding" width="400" style="border-radius:25px;" src="https://camo.githubusercontent.com/dba8a551526ddcfe0bb4a780df9eab493cdaf200ecb198eab26e0254f5faf0dc/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30382f46756c6c2d537461636b2d446576656c6f7065722d312e676966">
 
