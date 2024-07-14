@@ -11,7 +11,7 @@
 
 -✍️ BA student of software engineering (Shahid Beheshti University)
 - 📫 How to reach me **Amirmahdisattariams@gmail.com**
-- 🔥Currently, I am learning more about the advanced front-end topics also I am eager to learn the back-end(Java)
+- 🔥Currently, I am learning more about the advanced front-end topics also I am eager to learn the back-end
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
